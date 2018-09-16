@@ -1,0 +1,623 @@
+This is pdfTeX, Version 3.1415926-2.4-1.40.13 (MiKTeX 2.9) (preloaded format=pdflatex 2018.2.15)  7 AUG 2018 13:36
+entering extended mode
+**title.tex
+("D:\fdrve\latexxxxxxxxxxx\Copy of Main seminar Latex\title.tex"
+LaTeX2e <2011/06/27>
+Babel <v3.8m> and hyphenation patterns for english, afrikaans, ancientgreek, ar
+abic, armenian, assamese, basque, bengali, bokmal, bulgarian, catalan, coptic, 
+croatian, czech, danish, dutch, esperanto, estonian, farsi, finnish, french, ga
+lician, german, german-x-2012-05-30, greek, gujarati, hindi, hungarian, iceland
+ic, indonesian, interlingua, irish, italian, kannada, kurmanji, latin, latvian,
+ lithuanian, malayalam, marathi, mongolian, mongolianlmc, monogreek, ngerman, n
+german-x-2012-05-30, nynorsk, oriya, panjabi, pinyin, polish, portuguese, roman
+ian, russian, sanskrit, serbian, slovak, slovenian, spanish, swedish, swissgerm
+an, tamil, telugu, turkish, turkmen, ukenglish, ukrainian, uppersorbian, usengl
+ishmax, welsh, loaded.
+
+! LaTeX Error: Environment titlepage undefined.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.1 \begin{titlepage}
+                     
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+! LaTeX Error: Missing \begin{document}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.2 \begin{center}
+                  
+You're in trouble here.  Try typing  <return>  to proceed.
+If that doesn't work, type  X <return>  to quit.
+
+
+Overfull \hbox (20.0pt too wide) in paragraph at lines 2--2
+[] 
+ []
+
+
+Overfull \hbox (8.6944pt too wide) in paragraph at lines 3--3
+ \OT1/cmr/bx/n/10 A 
+ []
+
+
+Overfull \hbox (25.07626pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 Sem- 
+ []
+
+
+Overfull \hbox (7.02774pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 i- 
+ []
+
+
+Overfull \hbox (16.71518pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 nar 
+ []
+
+
+Overfull \hbox (17.72908pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 Re- 
+ []
+
+
+Overfull \hbox (21.66656pt too wide) in paragraph at lines 5--5
+ \OT1/cmr/bx/n/10 port 
+ []
+
+! Undefined control sequence.
+<recently read> \Large 
+                       
+l.7 \textbf{\Large{Lossless Compression of  }}
+                                              \\ \vspace{0.2cm}
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (39.27612pt too wide) in paragraph at lines 7--7
+ []\OT1/cmr/bx/n/10 Lossless 
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/bx/n/10 Com- 
+ []
+
+
+Overfull \hbox (24.76515pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/bx/n/10 pres- 
+ []
+
+
+Overfull \hbox (19.86932pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/bx/n/10 sion 
+ []
+
+
+Overfull \hbox (10.3541pt too wide) in paragraph at lines 7--7
+ \OT1/cmr/bx/n/10 of 
+ []
+
+! Undefined control sequence.
+<recently read> \Large 
+                       
+l.8  \textbf{\Large{ Dithered Images } }
+                                        \\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+
+Overfull \hbox (44.54146pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/10 Dithered 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/10 Im- 
+ []
+
+
+Overfull \hbox (21.14708pt too wide) in paragraph at lines 8--8
+ \OT1/cmr/bx/n/10 ages 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.9 \normalsize
+               
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (42.67747pt too wide) in paragraph at lines 11--11
+ []\OT1/cmr/m/it/10 Submitted 
+ []
+
+
+Overfull \hbox (8.68884pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 in 
+ []
+
+
+Overfull \hbox (17.50542pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 par- 
+ []
+
+
+Overfull \hbox (14.05547pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 tial 
+ []
+
+
+Overfull \hbox (14.56657pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 ful- 
+ []
+
+
+Overfull \hbox (14.82213pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 fill- 
+ []
+
+
+Overfull \hbox (21.72208pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 ment 
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 of 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 the 
+ []
+
+
+Overfull \hbox (11.88321pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 re- 
+ []
+
+
+Overfull \hbox (24.91646pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 quire- 
+ []
+
+
+Overfull \hbox (25.81094pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 ments 
+ []
+
+
+Overfull \hbox (12.39436pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 for 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 the 
+ []
+
+
+Overfull \hbox (27.7498pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 Award 
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 of 
+ []
+
+
+Overfull \hbox (13.03323pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 the 
+ []
+
+
+Overfull \hbox (15.72765pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 De- 
+ []
+
+
+Overfull \hbox (17.74565pt too wide) in paragraph at lines 11--11
+ \OT1/cmr/m/it/10 gree 
+ []
+
+
+Overfull \hbox (10.29718pt too wide) in paragraph at lines 13--13
+ []\OT1/cmr/m/it/10 of 
+ []
+
+Missing character: There is no M in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no f in font nullfont!
+Missing character: There is no T in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no l in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no y in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no C in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no E in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ( in font nullfont!
+Missing character: There is no I in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no a in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no p in font nullfont!
+Missing character: There is no r in font nullfont!
+Missing character: There is no o in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no s in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no n in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no ) in font nullfont!
+
+Overfull \hbox (10.29718pt too wide) in paragraph at lines 21--21
+ []\OT1/cmr/m/it/10 of 
+ []
+
+
+Overfull \hbox (30.15535pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 Cochin 
+ []
+
+
+Overfull \hbox (19.69987pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 Uni- 
+ []
+
+
+Overfull \hbox (16.9943pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 ver- 
+ []
+
+
+Overfull \hbox (15.33322pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 sity 
+ []
+
+
+Overfull \hbox (8.17773pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 of 
+ []
+
+
+Overfull \hbox (16.86655pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 Sci- 
+ []
+
+
+Overfull \hbox (18.91095pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 ence 
+ []
+
+
+Overfull \hbox (17.911pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 And 
+ []
+
+
+Overfull \hbox (23.76646pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 Tech- 
+ []
+
+
+Overfull \hbox (16.86656pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 nol- 
+ []
+
+
+Overfull \hbox (14.94016pt too wide) in paragraph at lines 23--23
+ \OT1/cmr/m/it/10 ogy 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.24 \normalsize
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+! Undefined control sequence.
+l.26 \includegraphics
+                     [height=0.25\textwidth]{./cek}\\
+The control sequence at the end of the top line
+of your error message was never \def'ed. If you have
+misspelled it (e.g., `\hobx'), type `I' and the correct
+spelling (e.g., `I\hbox'). Otherwise just continue,
+and I'll forget about whatever was undefined.
+
+Missing character: There is no [ in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no g in font nullfont!
+Missing character: There is no h in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no = in font nullfont!
+Missing character: There is no 0 in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no 2 in font nullfont!
+Missing character: There is no 5 in font nullfont!
+! Missing number, treated as zero.
+<to be read again> 
+                   ]
+l.26 \includegraphics[height=0.25\textwidth]
+                                            {./cek}\\
+A number should have been here; I inserted `0'.
+(If you can't figure out why I needed to see a number,
+look up `weird error' in the index to The TeXbook.)
+
+! Illegal unit of measure (pt inserted).
+<to be read again> 
+                   ]
+l.26 \includegraphics[height=0.25\textwidth]
+                                            {./cek}\\
+Dimensions can be in units of em, ex, in, pt, pc,
+cm, mm, dd, cc, nd, nc, bp, or sp; but yours is a new one!
+I'll assume that you meant to say pt, for printer's points.
+To recover gracefully from this error, it's best to
+delete the erroneous units; e.g., type `2' to delete
+two letters. (See Chapter 27 of The TeXbook.)
+
+Missing character: There is no ] in font nullfont!
+Missing character: There is no . in font nullfont!
+Missing character: There is no / in font nullfont!
+Missing character: There is no c in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no k in font nullfont!
+Missing character: There is no S in font nullfont!
+Missing character: There is no u in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no m in font nullfont!
+Missing character: There is no i in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no t in font nullfont!
+Missing character: There is no e in font nullfont!
+Missing character: There is no d in font nullfont!
+Missing character: There is no b in font nullfont!
+Missing character: There is no y in font nullfont!
+
+Overfull \hbox (29.29843pt too wide) in paragraph at lines 30--30
+ []\OT1/cmr/bx/n/10 Vinya 
+ []
+
+
+Overfull \hbox (15.72214pt too wide) in paragraph at lines 30--30
+ \OT1/cmr/bx/n/10 Vi- 
+ []
+
+
+Overfull \hbox (26.5137pt too wide) in paragraph at lines 30--30
+ \OT1/cmr/bx/n/10 jayan 
+ []
+
+
+! LaTeX Error: The font size command \normalsize is not defined:
+               there is probably something wrong with the class file.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.34 \normalsize
+                
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+
+Overfull \hbox (60.6733pt too wide) in paragraph at lines 35--35
+ []\OT1/cmr/bx/n/10 Department 
+ []
+
+
+Overfull \hbox (9.26384pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 of 
+ []
+
+
+Overfull \hbox (27.47208pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 Com- 
+ []
+
+
+Overfull \hbox (27.25682pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 puter 
+ []
+
+
+Overfull \hbox (18.52768pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 Sci- 
+ []
+
+
+Overfull \hbox (22.04156pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 ence 
+ []
+
+
+Overfull \hbox (18.36794pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 and 
+ []
+
+
+Overfull \hbox (17.77768pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 En- 
+ []
+
+
+Overfull \hbox (12.77771pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 gi- 
+ []
+
+
+Overfull \hbox (25.4999pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 neer- 
+ []
+
+
+Overfull \hbox (15.49298pt too wide) in paragraph at lines 35--35
+ \OT1/cmr/bx/n/10 ing 
+ []
+
+
+Overfull \hbox (54.93024pt too wide) in paragraph at lines 36--36
+ []\OT1/cmr/bx/n/10 COLLEGE 
+ []
+
+
+Overfull \hbox (15.87491pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/bx/n/10 OF 
+ []
+
+
+Overfull \hbox (20.38878pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/bx/n/10 EN- 
+ []
+
+
+Overfull \hbox (17.23601pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/bx/n/10 GI- 
+ []
+
+
+Overfull \hbox (36.56924pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/bx/n/10 NEER- 
+ []
+
+
+Overfull \hbox (22.40265pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/bx/n/10 ING 
+ []
+
+
+Overfull \hbox (56.38858pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/bx/n/10 KARUNA- 
+ []
+
+
+Overfull \hbox (21.56932pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/bx/n/10 GA- 
+ []
+
+
+Overfull \hbox (37.45395pt too wide) in paragraph at lines 36--36
+ \OT1/cmr/bx/n/10 PALLY 
+ []
+
+
+Overfull \hbox (161.11021pt too wide) in paragraph at lines 37--37
+ []\OT1/cmr/bx/n/10 KARUNAGAPALLY,KOLLAM 
+ []
+
+
+Overfull \hbox (57.54135pt too wide) in paragraph at lines 39--39
+ []\OT1/cmr/bx/n/10 JANUARY 
+ []
+
+
+Overfull \hbox (22.99988pt too wide) in paragraph at lines 39--39
+ \OT1/cmr/bx/n/10 2014 
+ []
+
+
+! LaTeX Error: \begin{document} ended by \end{titlepage}.
+
+See the LaTeX manual or LaTeX Companion for explanation.
+Type  H <return>  for immediate help.
+ ...                                              
+                                                  
+l.41 \end{titlepage}
+                    
+Your command was ignored.
+Type  I <command> <return>  to replace it with another command,
+or  <return>  to continue without it.
+
+)
+! Emergency stop.
+<*> title.tex
+             
+*** (job aborted, no legal \end found)
+
+ 
+Here is how much of TeX's memory you used:
+ 14 strings out of 493921
+ 300 string characters out of 3147288
+ 52031 words of memory out of 3000000
+ 3406 multiletter control sequences out of 15000+200000
+ 4294 words of font info for 16 fonts, out of 3000000 for 9000
+ 841 hyphenation exceptions out of 8191
+ 14i,1n,10p,117b,121s stack positions out of 5000i,500n,10000p,200000b,50000s
+!  ==> Fatal error occurred, no output PDF file produced!
